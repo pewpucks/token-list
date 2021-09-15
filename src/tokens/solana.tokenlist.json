@@ -14058,6 +14058,20 @@
         "coingeckoId": "polyplay",
         "twitter": "https://twitter.com/polyplaycoin",
         "discord": "https://discord.gg/TAgndUz2Fc"
+     }
+    },
+    {
+      "chainId": 101,
+      "address": "CvF5L4C6Jy46ta4HVoEwt3ryJH4FzZFSWbJSzxF13BWu",
+      "symbol": "WPE",
+      "name": "WISPE",
+      "decimals": 9,
+      "logoURI": "https://uploaddeimagens.com.br/imagens/q2R2H0c",
+      "tags": [],
+      "extensions": {
+        "website": "https://wispeoficial.io/",
+        "twitter": "https://twitter.com/wispeoficial",
+        "discord": "https://discord.gg/ISgnd2z2Bc"    
       }
     }
   ],
